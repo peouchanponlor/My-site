@@ -1,0 +1,142 @@
+
+body{
+  margin:10px;
+  text-align: center;
+}
+.top-container{
+  background-color:#EAF6F6;
+  position:relative;
+  padding-top:100px;
+}
+h1{
+
+  font-size:40px;
+  margin:50px auto 0 auto;
+  width:50%;
+  font-family: 'Indie Flower', cursive;
+  color:#66BFBF;
+  line-height:2;
+}
+h2{
+  font-family: 'Josefin Slab', serif;
+  color:#66BFBF;
+  font-weight: normal;
+  margin:50px auto 50px auto;
+}
+.cloud1{
+  position:absolute;
+  right:300px;
+  top:50px;
+}
+.cloud2{
+ position:absolute;
+ left:300px;
+ bottom:300px
+}
+.middle-container{
+ margin:100px;
+}
+.profile-photo{
+  width:150px;
+  height:150px;
+  border-radius: 50%;
+}
+p{
+  font-family: 'Indie Flower', cursive;
+  color:#40514E;
+  line-height:2;
+}
+hr{
+border-color: #beebe9;
+border-style: dotted none none ;
+border-width: 10px;
+width:8%;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align:left;
+  line-height:2;
+}
+.pro{
+  width:150px;
+  height:150px;
+  float:left;
+  border-radius:50%;
+  margin-right:30px;
+}
+h3{
+  font-family: 'Josefin Slab', serif;
+  color:#11999E;
+  line-height:2;
+}
+.pre{
+  width:150px;
+  height:150px;
+  float:right;
+  border-radius:50%;
+  margin-left:30px;
+}
+.contact-me{
+  margin: 40px auto 60px;
+
+}
+.blog{
+  width:30%;
+  margin:auto auto 30px ;
+}
+/*
+.btn{
+  background-color: #66BFBF;
+  border: 22px solid #66BFBF;
+  border-radius: 10%;
+  margin: 50px 20px 50px 20px;
+  color:white;
+}
+*/
+.myButton {
+	box-shadow: 0px 1px 0px 0px #66BFBF;
+	background:linear-gradient(to bottom, #33bdef 5%, #66BFBF 100%);
+	background-color:#66BFBF;
+	border-radius:16px;
+	border:1px solid #66BFBF;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Indie Flower', cursive;
+	font-size:15px;
+	font-weight:bold;
+	padding:17px 15px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #66BFBF 5%, #66BFBF 100%);
+	background-color:#66BFBF;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+a{
+  font-family: 'Indie Flower', cursive;
+  color:#11999E;
+  margin:10px 20px;
+  text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding:50px 0 20px;
+}
+footer-link{
+  color:#11999E;
+  height:100px;
+}
+.peou{
+  font-size: 0.75rem;
+  color:white;
+}
+a:hover{
+  color:white;
+}
